@@ -1,0 +1,39 @@
+<svg width="56" height="56" viewBox="0 0 56 56" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_12_564)">
+<g clip-path="url(#clip1_12_564)">
+<g clip-path="url(#clip2_12_564)">
+<g filter="url(#filter0_ii_12_564)">
+<path d="M55.8231 27.9128C55.8231 42.7853 43.7665 54.8419 28.894 54.8419C14.0214 54.8419 1.96484 42.7853 1.96484 27.9128C1.96484 13.0402 14.0214 0.983643 28.894 0.983643C43.7665 0.983643 55.8231 13.0402 55.8231 27.9128Z" fill="#071A34"/>
+</g>
+<path d="M41.8775 29.3252C40.4043 30.1119 38.7216 30.5578 36.9347 30.5578C31.1308 30.5578 26.4259 25.8528 26.4259 20.0489C26.4259 18.2621 26.8718 16.5794 27.6585 15.1061C22.4343 16.3304 18.5442 21.0194 18.5442 26.6169C18.5442 33.1464 23.8373 38.4394 30.3667 38.4394C35.9642 38.4394 40.6531 34.5493 41.8775 29.3252Z" fill="white"/>
+</g>
+</g>
+</g>
+<defs>
+<filter id="filter0_ii_12_564" x="1.96484" y="0.983643" width="53.8582" height="56.0861" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="2.22787"/>
+<feGaussianBlur stdDeviation="1.11394"/>
+<feComposite in2="hardAlpha" operator="arithmetic" k2="-1" k3="1"/>
+<feColorMatrix type="matrix" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 0.15 0"/>
+<feBlend mode="normal" in2="shape" result="effect1_innerShadow_12_564"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset/>
+<feGaussianBlur stdDeviation="16.709"/>
+<feComposite in2="hardAlpha" operator="arithmetic" k2="-1" k3="1"/>
+<feColorMatrix type="matrix" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 0.05 0"/>
+<feBlend mode="normal" in2="effect1_innerShadow_12_564" result="effect2_innerShadow_12_564"/>
+</filter>
+<clipPath id="clip0_12_564">
+<rect width="56" height="55.02" fill="white"/>
+</clipPath>
+<clipPath id="clip1_12_564">
+<rect width="56" height="55.02" fill="white"/>
+</clipPath>
+<clipPath id="clip2_12_564">
+<rect width="56" height="55.0175" fill="white" transform="translate(0 0.0012207)"/>
+</clipPath>
+</defs>
+</svg>

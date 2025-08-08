@@ -1,0 +1,40 @@
+.privacy-policy-section, .terms-of-use-section {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 40px 20px;
+  font-family: Arial, sans-serif;
+  color: #333;
+  line-height: 1.6;
+  background-color: var(--bg-1);
+  border-radius: 10px;
+}
+.privacy-policy-section h1, .terms-of-use-section h1 {
+  font-size: 32px;
+  margin-bottom: 24px;
+  text-align: center;
+  color: #222;
+}
+.privacy-policy-section h3, .terms-of-use-section h3 {
+  font-size: 20px;
+  margin-top: 24px;
+  margin-bottom: 12px;
+  color: #444;
+}
+.privacy-policy-section p, .terms-of-use-section p {
+  font-size: 16px;
+  margin-bottom: 16px;
+}
+@media (max-width: 600px) {
+  .privacy-policy-section, .terms-of-use-section {
+    padding: 20px 10px;
+  }
+  .privacy-policy-section h1, .terms-of-use-section h1 {
+    font-size: 26px;
+  }
+  .privacy-policy-section h3, .terms-of-use-section h3 {
+    font-size: 18px;
+  }
+  .privacy-policy-section p, .terms-of-use-section p {
+    font-size: 15px;
+  }
+}
