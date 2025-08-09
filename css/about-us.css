@@ -177,6 +177,9 @@
   background: #f3ebff;
   border-radius: 24px;
 }
+.mision__card:nth-child(2) {
+  background: #DCFCE7;
+}
 .mision__card-text {
   margin-top: 15px;
   text-align: center;
@@ -853,7 +856,7 @@
 /* Results */
 /* Stats */
 .stats {
-  padding: 77px 20px 34px 20px;
+  padding: 47px 20px 34px 20px;
   background: #262626;
   margin-bottom: 66px;
   margin-top: 137px;
@@ -875,6 +878,9 @@
           justify-content: center;
   -ms-flex-wrap: wrap;
       flex-wrap: wrap;
+}
+.stats__item {
+  text-align: center;
 }
 .stats__value {
   font-weight: 500;
